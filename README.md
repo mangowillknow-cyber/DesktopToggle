@@ -24,6 +24,7 @@ Win+R → shell:startup → 粘贴快捷方式
 
 ## 技术
 
+- 由 [Codex](https://openai.com/codex) 编写，通过 DeepSeek API 驱动
 - 通过 Win32 API 操控桌面 SysListView32 窗口的可见性
 - 纯 C# / .NET Framework 4.x，无需额外依赖
 - 预渲染托盘图标，切换零延迟
